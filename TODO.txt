@@ -1,0 +1,5 @@
+やりたいことメモ
+
+・まずは
+$ npm i --save @nestjs/ng-universal
+の後の処理
