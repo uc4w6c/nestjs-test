@@ -3,3 +3,7 @@
   app.setBaseViewsDir(join(__dirname, '..', 'views'));
   app.setViewEngine('hbs');
 →これはINestApplicationが用意していなかった。
+
+
+https://docs.nestjs.com/interceptors
+これを調べること！
